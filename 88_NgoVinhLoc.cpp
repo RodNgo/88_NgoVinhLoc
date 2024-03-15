@@ -5,6 +5,6 @@ int main(){
     cout<<"\n";
     cout<<"88_Ngo Vinh Loc";
     cout<<"77_LeDinhChien";
-    cout<<"them 1 dong vao nhanh test_88_NgoVinhLoc"
+    cout<<"conf";
     return 0;
 }
